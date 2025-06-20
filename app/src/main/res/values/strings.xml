@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Поступай AI</string>
+    <string name="logo_label">ПОСТУПАЙ AI</string>
+    <string name="logo_title">Выбирай своё будущее!</string>
+    <string name="registration_label">Регистрация</string>
+    <string name="registration_button_label">Зарегистрироваться</string>
+    <string name="registration_nav">Нет аккаунта</string>
+
+<!--Базовые-->
+
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="button_continue">Продолжить</string>
+
+<!--Первая настройка-->
+
+    <string name="welcome">Добро пожаловать</string>
+    <string name="first_setting_start_ask">Давайте настроим всё для вас</string>
+    <string name="first_setting_start_button">Начать</string>
+    <string name="first_setting_subject_ask">Вы уже определились с выбором предметов ЕГЭ?</string>
+    <string name="first_setting_selection_subjects">Отметьте ваши предметы ЕГЭ</string>
+    <string name="first_setting_spec_ask">Выберите интересующие вас специальности</string>
+
+
+
+    <string name="user_not_found">Пользователь не найден. Зарегестрируйтесь</string>
+    <string name="invalid_credentials">Неверные данные</string>
+    <string name="user_already_exists">Пользователь уже существует</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="login">Авторизация</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="back_to_login">Назад ко входу</string>
+    <string name="authorization_repeat_password_label">Repeat Password</string>
+
+    <string name="welcome_small">Авторизуйтесь и начните свой путь к осозноному выбору специализации</string>
+    <string name="auth_button">Авторизоваться</string>
+    <string name="in_system">Вы в системе</string>
+    <string name="authorization_title">Авторизация</string>
+    <string name="authorization_email_label">Адрес электронной почты</string>
+    <string name="authorization_password_label">Пароль</string>
+    <string name="next">Далее</string>
+    <string name="authorization_code_label">Введите код</string>
+    <string name="authorization_repeat_password">Повторите пароль</string>
+    <string name="authorization_logout">Выйти</string>
+    <string name="authorization_passwords_match_error">Пароли не совпадают</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="authorization_email_error">Введите адрес электронной почты</string>
+    <string name="authorization_password_error">Введите пароль</string>
+    <string name="authorization_code_message">На указанную почту был отправлен код подтверждения</string>
+    <string name="select_specialties">Выберите интересующие вас специальности</string>
+    <string name="profile_check_speciality">Выбор специальностей</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_succes">Готово</string>
+    <string name="change">Изменить\n</string>
+    <string name="choise">Выбрать</string>
+    <string name="ballInput">Ввести результаты</string>
+    <string name="footing_ask">Как вы планируете поступать в вуз?</string>
+    <string name="first_setting_footing_ege">ЕГЭ</string>
+    <string name="first_setting_footing_spo">Вступительные</string>
+    <string name="save">Сохранить</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="authorization_code_forlabel">Отправка пиьсма может занять до 7 минут, кроме того рекомендуем проверить спам</string>
+
+</resources>
